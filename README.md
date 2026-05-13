@@ -6,7 +6,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Olá! Sou estudante de Engenharia de Software e apaixonado por tecnologia.Atualmente tenho 18 anos, e estou me desenvolvendo em analise de dados, desenvolvimento web, automação.... 
+Salve! Sou estudante de Engenharia de Software e apaixonado por tecnologia.Atualmente tenho 18 anos, e estou me desenvolvendo em analise de dados, desenvolvimento web, automação.... 
 
 ---
 
