@@ -21,7 +21,7 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento web.
  Busco melhorar continuamente minha compreensão dos ecossistemas web modernos.
 </p>
 <p>
-Atualmente, estou aprendendo <b>React.js, Node.js e PostgreSQL</b>, enquanto aprimoro minhas habilidades essenciais em <b>HTML5, CSS3</b> e controle de versão usando <b>Git/GitHub</b>.
+Atualmente, aprendendo <b>React.js, Node.js e PostgreSQL</b></b>.
 </p>
 
 </td>
