@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner GIF Estrelado -->
-  <img src="assets/banner.gif.jfif" alt="Starry Sky Banner" width="100%" />
+  <img src="assets/banner.jpeg" alt="Starry Sky Banner" width="100%" />
 
   <br/><br/>
 
@@ -39,7 +39,7 @@
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <!-- Imagem Pixel Art da Lain -->
-      <img src="assets/lain.jpg.jpg" alt="Lain CRT setup" width="95%" />
+      <img src="lain.jpg.jpg" alt="Lain CRT setup" width="95%" />
     </td>
   </tr>
 </table>
