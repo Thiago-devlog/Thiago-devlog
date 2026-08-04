@@ -3,9 +3,8 @@
 <img src="assets/banner.jpeg" alt="Starry Sky Banner" width="100%" />
 ​<!-- Título com o Wave (Mão animada) -->
 
-​<!-- Subtítulo com animação de digitação -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9B5C2&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Estudante+de+Engenharia+de+Software;Focado+em+Código" alt="Typing SVG" />
+​<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9B5C2&center=true&vCenter=true&width=600&lines=Desenvolvedor;Estudante+de+Engenharia+de+Software;Focado+em+C%C3%B3digo" alt="Typing SVG" />
 </a>
 
 </div>
