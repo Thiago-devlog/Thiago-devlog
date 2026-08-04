@@ -2,14 +2,12 @@
   
 <img src="assets/banner.jpeg" alt="Starry Sky Banner" width="100%" />
 ​<!-- Título com o Wave (Mão animada) -->
-<h1>
-Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou o Thiago
-</h1>
+
 ​<!-- Subtítulo com animação de digitação -->
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9B5C2&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Estudante+de+Engenharia+de+Software;Focado+em+Código" alt="Typing SVG" />
 </a>
-<p>Construindo aplicações web limpas e responsivas e soluções de software confiáveis.</p>
+
 </div>
 ​Sobre Mim
 ​<table align="center" style="border-collapse: collapse; border: none;">
@@ -18,17 +16,15 @@ Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/
 
 
 <p>
-Estudante de Engenharia de Software com foco em desenvolvimento front-end.
+Sou estudante de Engenharia de Software com foco em desenvolvimento web.
 </p>
 <p>
-Gosto de construir aplicações web limpas e funcionais com JavaScript, buscando melhorar continuamente minha compreensão dos ecossistemas web modernos.
+ Busco melhorar continuamente minha compreensão dos ecossistemas web modernos.
 </p>
 <p>
 Atualmente, estou aprendendo <b>React.js, Node.js e PostgreSQL</b>, enquanto aprimoro minhas habilidades essenciais em <b>HTML5, CSS3</b> e controle de versão usando <b>Git/GitHub</b>.
 </p>
-<p>
-Meu objetivo é simples: escrever código limpo, construir software confiável e evoluir como um engenheiro de software que cria sistemas duradouros.
-</p>
+
 </td>
 <td width="40%" align="center" valign="middle" style="border: none;">
 <!-- Imagem Pixel Art da Lain -->
@@ -38,15 +34,15 @@ Meu objetivo é simples: escrever código limpo, construir software confiável e
 </table>
 ​🤝 Contato
 ​<p align="center">
-<a href="https://linkedin.com/in/SEU_PERFIL" target="_blank">
+<a href="linkedin.com/in/thiago-anjos-750014427" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
   
-<a href="mailto:seuemail@exemplo.com">
+<a href="cont.thiagodev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
   
-<a href="https://github.com/SEU_USER" target="_blank">
+<a href="https://github.com/Thiago-devlog" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </p>
