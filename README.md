@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/1-3.gif" alt="Starry Pixel Sky Banner" width="100%" />
+  <img src="assets/1-3.gif" alt="Starry Pixel Sky Banner" width="80%" />
 
 
 <a href="https://github.com/Thiago-devlog">
