@@ -18,13 +18,14 @@
 <td width="60%" valign="top" style="border: none;">
 
 <p>
-Sou estudante de <b>Engenharia de Software</b> com foco em desenvolvimento web moderno, computação gráfica e suporte técnico.
+Meu interesse por tecnologia começou no ensino médio, onde tive meu primeiro contato com lógica e TI — aprendendo os primeiros conceitos mesmo antes de ter meu próprio computador.
 </p>
 <p>
-Busco melhorar continuamente minha compreensão dos ecossistemas web modernos, construindo aplicações limpas, performáticas e com forte rigor arquitetural.
+Atualmente, sou estudante de Engenharia de Software focado em desenvolvimento web moderno, computação gráfica. Busco criar aplicações performáticas, limpas e com forte rigor arquitetônico.
 </p>
 <p>
-Atualmente focado em <b>React 19, TypeScript, HTML5 Canvas API (Dithering Algorithms), Node.js e SQL (PostgreSQL, MySQL, SQLite)</b>.
+Tech Stack & Foco Atual:
+React 19, TypeScript, HTML5 Canvas API (Algoritmos de Dithering), Node.js, C/C++, Python e SQL (PostgreSQL, MySQL, SQLite).
 </p>
 
 </td>
