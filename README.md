@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/1-3.gif" alt="Starry Pixel Sky Banner" width="80%" />
+  <img src="assets/1-3.gif" alt="Starry Pixel Sky Banner" width="90%" />
 
 
 <a href="https://github.com/Thiago-devlog">
@@ -15,7 +15,7 @@
 
 <table align="center" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
-<td width="60%" valign="top" style="border: none;">
+<td width="20%" valign="top" style="border: none;">
 
 <p>
 Meu interesse por tecnologia começou no ensino médio, onde tive meu primeiro contato com lógica e TI — aprendendo os primeiros conceitos mesmo antes de ter meu próprio computador.
