@@ -57,7 +57,7 @@ React 19, TypeScript, HTML5 Canvas API (Algoritmos de Dithering), Node.js, C/C++
 
 <br>
 
-## Tecnologias
+## Tecnologias & Ferramentas
 
 
 <div align="center">
