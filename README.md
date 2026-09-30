@@ -20,11 +20,11 @@
 Meu interesse por tecnologia começou no ensino médio, onde tive meu primeiro contato com <b>lógica e TI</b> — aprendendo os primeiros conceitos mesmo antes de ter meu próprio computador.
 </p>
 <p>
-Atualmente, sou estudante de <b>Engenharia de Software</b> centrado em <b>desenvolvimento web moderno</b>, <b>computação gráfica</b> e <b>automações</b>. Busco criar aplicações performáticas, limpas e com forte rigor arquitetônico.
+Atualmente, sou estudante de <b>Engenharia de Software</b> centrado em <b>desenvolvimento web moderno</b> e <b>automações</b>. Busco criar aplicações limpas e com forte rigor arquitetônico.
 </p>
 <p>
 <b>Tech Stack & Foco Atual:</b><br>
-React 19, TypeScript, Python (Automações & Scripts), HTML5 Canvas API (Algoritmos de Dithering), Node.js, C/C++ e SQL (PostgreSQL, MySQL, SQLite).
+React 19, TypeScript, Python (Automações & Scripts), Node.js e SQL.
 </p>
 
 </td>
