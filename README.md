@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/janela.gif" alt="Starry Pixel Sky Banner" width="60%" />
+  <img src="assets/quadro.gif" alt="Starry Pixel Sky Banner" width="60%" />
 
   <a href="https://github.com/Thiago-devlog">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9B5C2&center=true&vCenter=true&width=750&lines=Desenvolvedor+Web;Estudante+de+Engenharia+de+Software;Focado+em+React+19%2C+Canvas+Graphics+%26+TypeScript;Solu%C3%A7%C3%B5es+Full-Stack%2C+SQL+%26+Engenharia+de+Prompts" alt="Typing SVG" />
@@ -30,7 +30,7 @@ React 19, TypeScript, Python (Automações & Scripts), Node.js e SQL.
 
 </td>
 <td width="35%" align="center" valign="middle" style="border: none;">
-<img src="assets/clouds.gif" alt="Pixel Rain Setup" width="100%" style="border-radius: 8px;" />
+<img src="assets/3d.gif" alt="Pixel Rain Setup" width="100%" style="border-radius: 8px;" />
 </td>
 </tr>
 </table>
