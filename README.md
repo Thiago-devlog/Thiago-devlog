@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/1-3.gif" alt="Starry Pixel Sky Banner" width="90%" />
+  <img src="assets/janela.gif" alt="Starry Pixel Sky Banner" width="60%" />
 
   <a href="https://github.com/Thiago-devlog">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9B5C2&center=true&vCenter=true&width=750&lines=Desenvolvedor+Web;Estudante+de+Engenharia+de+Software;Focado+em+React+19%2C+Canvas+Graphics+%26+TypeScript;Solu%C3%A7%C3%B5es+Full-Stack%2C+SQL+%26+Engenharia+de+Prompts" alt="Typing SVG" />
