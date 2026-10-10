@@ -30,7 +30,7 @@ React 19, TypeScript, Python (Automações & Scripts), Node.js e SQL.
 
 </td>
 <td width="35%" align="center" valign="middle" style="border: none;">
-<img src="assets/3d.gif" alt="Pixel Rain Setup" width="100%" style="border-radius: 8px;" />
+<img src="assets/janelas.gif" alt="Pixel Rain Setup" width="100%" style="border-radius: 8px;" />
 </td>
 </tr>
 </table>
