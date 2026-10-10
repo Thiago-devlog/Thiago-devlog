@@ -17,7 +17,8 @@
 <td width="60%" valign="top" style="border: none;">
 
 <p>
-Meu interesse por tecnologia começou no ensino médio, onde tive meu primeiro contato com <b>lógica e TI</b> — aprendendo os primeiros conceitos mesmo antes de ter meu próprio computador.
+Meu interesse por tecnologia começou no ensino médio, onde tive meu primeiro contato com <b>lógica e TI</b> 
+  ,aprendendo os primeiros conceitos mesmo antes de ter meu próprio computador.
 </p>
 <p>
 Atualmente, sou estudante de <b>Engenharia de Software</b> centrado em <b>desenvolvimento web moderno</b> e <b>automações</b>. Busco criar aplicações limpas e com forte rigor arquitetônico.
